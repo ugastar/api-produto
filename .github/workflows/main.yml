@@ -47,7 +47,7 @@ jobs:
           tags:
             ulissesdevops/api-bootcamp-produto:latest
             
-            ulissesdevops/api-bootcamp-produto:v3        
+            ulissesdevops/api-bootcamp-produto:${{ github.run_number }}        
             
 
 
