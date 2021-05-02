@@ -45,8 +45,8 @@ jobs:
           file: ./src/Dockerfile
           push: true
           tags:
-            ulissesdevops/api-bootcamp:latest
-            ulissesdevops/api-bootcamp:${{github.run_number}}
+            ulissesdevops/api-bootcamp-produto:latest
+            ulissesdevops/api-bootcamp-produto:${{github.run_number}}
             
             
 
