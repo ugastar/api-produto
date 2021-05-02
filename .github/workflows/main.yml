@@ -42,7 +42,7 @@ jobs:
           # Build's context is the set of files located in the specified PATH or URL
           context:  ./src
           # Path to the Dockerfile
-          file: ./src/Dockerfile
+          file: ./src/dockerfile
           push: true
           tags:
             ulissesdevops/api-bootcamp-produto:latest
