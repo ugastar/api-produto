@@ -46,7 +46,8 @@ jobs:
           push: true
           tags:
             ulissesdevops/api-bootcamp-produto:latest
-            ulissesdevops/api-bootcamp-produto:latest        
+            
+            ulissesdevops/api-bootcamp-produto:l        
             
 
 
